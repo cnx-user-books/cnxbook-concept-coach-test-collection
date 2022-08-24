@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax Tutor">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11717</md:content-id>
     <md:title>CC Test Coll</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>bf516ea9-7e9c-484d-ba16-6bb73314f38b</md:uuid>
-<md:slug>concept-coach-test-collection</md:slug>
-</metadata>
+    <md:slug>concept-coach-test-collection</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Introduction: The Nature of Science and Physics</md:title>
